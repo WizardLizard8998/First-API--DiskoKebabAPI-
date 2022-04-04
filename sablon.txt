@@ -1,0 +1,12 @@
+get method (id)
+
+phone -> string 
+id number primary key  
+
+success
+ 
+
+ doğrulama  
+
+
+ 
